@@ -5,8 +5,8 @@ public class PrimoEs {
 
 
     //3
-    String[] elements = new String[5];
-    String one = scanner.nextLine();
+    String[] elements = {"pasta", "latte", "farina", "zucchero", "frutta"};
+    String one = "pane";
 
 
     public static String concat(String[] elements, String one) {
